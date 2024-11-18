@@ -1,0 +1,20 @@
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 25px;
+    height: 10px;
+}
+
+tr, td{
+    padding: 35px;
+}
+
+table{
+    background-color: rgb(248, 240, 231);
+
+}
+div{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
